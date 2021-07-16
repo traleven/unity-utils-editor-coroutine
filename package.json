@@ -1,0 +1,19 @@
+{
+  "name": "com.traleven.utils.editor-coroutine",
+  "version": "1.0.0",
+  "displayName": "Editor Coroutines",
+  "description": "Basic coroutines support for Unity Editor",
+  "unity": "2017.1",
+  "documentationUrl": "https://github.com/traleven/unity-utils-editor-coroutine",
+  "licensesUrl": "https://github.com/traleven/unity-utils-editor-coroutine/blob/master/LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+  	"coroutine",
+    "editor"
+  ],
+  "author": {
+    "name": "traleven",
+    "url": "https://github.com/traleven"
+  }
+}
